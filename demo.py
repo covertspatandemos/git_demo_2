@@ -5,3 +5,6 @@ print('b')
 print('c')
 print('w')
 print('x')
+print('1')
+print('2')
+
